@@ -10,7 +10,7 @@ To complie execute the following command in the command line.
 gcc minesweeper.c -o minesweeper -lraylib -framework OpenGL -framework Cocoa -framework IOKit
 
 ### Start Game
-The game can be started by executing the ./minesweeper command in the project directory
+The game can be started by executing the ./minesweeper command in the src directory
 
 ### Assets
 All necessary assets for the game can be found in the assets directory
