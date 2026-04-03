@@ -1,6 +1,9 @@
 # Minesweeper by Boba 
 ## Praxis Programming Game Project
 
+### Requirements
+This game uses raylib.h. Therefore the installation of this library is necessary to run this code.
+
 ### Compile
 To complie execute the following command in the command line.
 
