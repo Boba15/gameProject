@@ -379,7 +379,7 @@ int drawEndScreen(){
 
 int main(){
     
-    InitWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "Minesweeper by Borna");
+    InitWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "Minesweeper by Boba");
 
     SetTargetFPS(FRAMES_PER_SECOND);
 
